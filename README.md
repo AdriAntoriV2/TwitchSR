@@ -1,15 +1,15 @@
-# CypherSR
+# TwitchSR
 
 A portable Twitch song request player for Windows, built for streamers using OBS.
 
 ## Download
 
-**[Download the latest release](https://github.com/Cypherusuh/CypherSR/releases/latest)**
+**[Download the latest release](https://github.com/AdriAntoriV2/TwitchSR/releases/latest)**
 
 - **FULL** — For users who want the desktop app with the video player.
 - **LITE** — For potato laptops or low-end PCs. Lightweight version without the desktop video player.
 
-Download the latest version from the [Releases page](https://github.com/Cypherusuh/CypherSR/releases/latest) and choose the package that fits your needs.
+Download the latest version from the [Releases page](https://github.com/AdriAntoriV2/TwitchSR/releases/latest) and choose the package that fits your needs.
 
 ## Features
 
@@ -23,7 +23,7 @@ Download the latest version from the [Releases page](https://github.com/Cypherus
 
 ## Installation
 
-1. Download the latest full portable ZIP from the [latest release](https://github.com/Cypherusuh/CypherSR/releases/latest).
+1. Download the latest full portable ZIP from the [latest release](https://github.com/AdriAntoriV2/TwitchSR/releases/latest).
 2. Extract the ZIP into a writable folder.
 3. Run `CypherSR.exe`. The Rust launcher checks for app and bundled media-tool updates, then starts `CypherSR-core.exe`. On first run, follow the Twitch login instructions.
 4. Add the printed browser source URLs to OBS.
@@ -61,8 +61,8 @@ The local HTTP API reports Twitch authentication and connection status. By defau
 
 ## Support
 
-Found a bug or have a suggestion? [Open an issue](https://github.com/Cypherusuh/CypherSR/issues).
+Found a bug or have a suggestion? [Open an issue](https://github.com/AdriAntoriV2/TwitchSR/issues).
 
 ## License
 
-See the repository's [LICENSE](https://github.com/Cypherusuh/CypherSR/blob/main/LICENSE).
+See the repository's [LICENSE](https://github.com/AdriAntoriV2/TwitchSR/blob/main/LICENSE).
